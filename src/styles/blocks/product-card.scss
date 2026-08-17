@@ -24,10 +24,6 @@
     padding-inline: 19px;
   }
 
-  &__link:hover {
-    border-bottom: 1px solid $main-black-color;
-  }
-
   &__value {
     margin: 0;
     font-weight: 700;
@@ -54,10 +50,6 @@
     font-size: 12px;
     line-height: $text-line-height;
     letter-spacing: 0;
-  }
-
-  &__title:hover {
-    border-bottom: 1px solid $main-black-color;
   }
 
   &__code {
